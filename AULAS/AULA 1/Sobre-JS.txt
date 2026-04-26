@@ -1,0 +1,81 @@
+SOBRE O JS
+
+1 - O que é:
+
+Linguagem de progrmação responsável pelo back-end e front-end de sites e aplicativos móveis.
+
+2 - O que faz:
+
+Responsável por adicionar funcionalidades, criar formulários, comunicar servidores, entre outros.
+
+- Utiliza frameworks como o React Native, sendo, com ele, possível a criação de Apps Móveis que funcionam tanto em Android quanto em IOS;
+
+- Inúmeras bibliotecas disponíveis;
+
+3 - Combinação Web:
+
+HTML - Conteúdo;
+JS - Interação;
+CSS - Estilo;
+
+4 - Arquitetura;
+
+A arquitetura Cliente-Servidor funciona da seginte forma:
+    Parte do Cliente: Interface e interatividade com usuário;
+    Parte do Servidor: Processamento de informações e armazenamento de dados;
+
+Comumente denominados: Parte do Cliente: Front-End; Parte Servidor: Back-End.
+
+5 - História do JS:
+
+No iníco da internet as páginas eram pouco ou nada interativas, apresentavam o conteudo exatamente como fora feito. Navegar por links e enviar através de formulários era tudo que podia ser feito.
+
+Com o potencial da Internet e para haver maior interatividade com as páginas a empresa dona do navegador Netscape, criou o LiveScript, que permitia a execução de scripts contidos nas páginas do navegador. A linguagem foi criada por Brendan Eich em 1994, na Netscape.
+
+Aprobeitando o sucesso do Java, a Netscape rebatizou o LiveScript para JavaScript e fez um acordo com a Sun para alavancar o uso das duas.
+
+Então o vice-líder dos navegadores, Microsoft, adicionou suporte para scripts em VBScript no Internet Explorer e criou sua prórpria versão de JavaScript o JScript.
+
+6 - Definição:
+
+JavaScript é totalmente diferente de Java!!!
+
+Uma linguagem de scripting é comumente definida como uma linguagem de
+programação que permite ao programador controlar uma ou mais aplicações
+de terceiros.
+
+No caso do JavaScript, podemos controlar alguns comportamentos dos
+navegadores através de trechos de código que são enviados na página
+HTML.
+
+Outra característica comum nas linguagens de scripting é que normalmente
+elas são linguagens interpretadas, ou seja, não dependem de compilação
+para serem executadas.
+
+O JavaScript também possui grande tolerância a erros, uma vez que
+conversões automáticas são realizadas durante operações. Como será visto
+no decorrer das explicações, nem sempre essas conversões resultam em
+algo esperado, o que pode ser fonte de muitos bugs, caso não conheçamos
+bem esse mecanismo.
+
+7 - Diferenças:
+
+- JavaScript não permite a criação de applets nem de aplicativos.
+
+- JavaScript reside dentro de documentos HTML e pode prover diferentes níveis de
+interatividades não suportados pelo HTML sozinho.
+
+- Aplicativos Java são executados pela máquina virtual Java.
+
+- Scripts JavaScript são executados pelos browsers.
+
+- Java é compilado.
+
+- JavaScript é interpretada.
+
+8 - Primeiros Comandos:
+
+- Console.log;
+- Alert;
+
+_________________________________________________________________________________________________________________________________________________________________
