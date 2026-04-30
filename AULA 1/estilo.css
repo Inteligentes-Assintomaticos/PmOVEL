@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+
+div#principal {
+    width: 900px;
+    height: 1000px;
+    background-color: #888888;
+}
