@@ -1,22 +1,26 @@
-// AULA 7 -If, Else e Switch.
+// ATIVIDADE DA AULA 7 -If, Else e Switch.
+
+// Aluno: Matheus Ramos Lima da Silva
+// Turma: 523
+// Data: 04/05/2026
 
 // 1 - Escolher o dia usando if else:
 
-let dia_ifelse = 3;
+let dia_ifelse1 = 3;
 
-if (dia_ifelse === 1) {
+if (dia_ifelse1 === 1) {
     console.log('Domingo');
-} else if (dia_ifelse === 2) {
+} else if (dia_ifelse1 === 2) {
     console.log('Segunda-feira');
-} else if (dia_ifelse === 3){
+} else if (dia_ifelse1 === 3){
     console.log('Terça-feira');
-} else if (dia_ifelse === 4){
+} else if (dia_ifelse1 === 4){
     console.log('Quarta-feira');
-} else if (dia_ifelse === 5){
+} else if (dia_ifelse1 === 5){
     console.log('Quinta-feira');
-} else if (dia_ifelse === 6){
+} else if (dia_ifelse1 === 6){
     console.log('Sexta-feira');
-} else if (dia_ifelse === 7){
+} else if (dia_ifelse1 === 7){
     console.log('Sábado');
 } else {
     console.log('Dia inválido');
@@ -24,9 +28,9 @@ if (dia_ifelse === 1) {
 
 // 2 - Escolher o dia usando switch:
 
-let dia_switch = Number(prompt('Digite um número de 1 a 7 para escolher um dia da semana: '));
+let dia_switch2 = Number(prompt('Digite um número de 1 a 7 para escolher um dia da semana: '));
 
-switch (dia_switch) {
+switch (dia_switch2) {
     case 1:
         console.log('Domingo');
         break;
@@ -54,54 +58,42 @@ switch (dia_switch) {
 
 // 3 - Exemplo de switch sem o break:
 
-let dia = 3;
+let cor3 = 'verde';
 
-switch (dia) {
-    case 1:
-        console.log('Domingo');
-    case 2:
-        console.log('Segunda-feira');
-    case 3:
-        console.log('Terça-feira');
-    case 4:
-        console.log('Quarta-feira');
-    case 5:
-        console.log('Quinta-feira');
-    case 6:
-        console.log('Sexta-feira');
-    case 7:
-        console.log('Sábado');
+switch (cor3) {
+    case 'vermelho':
+        console.log('Cor é vermelho');
+    case 'verde':
+        console.log('Cor é verde');
+    case 'azul':
+        console.log('Cor é azul');
+    default:
+        console.log('Cor desconhecida');
 }
 
 // 4 - Exemplo da switch com o break:
 
-switch (dia) {
-    case 1:
-        console.log('Domingo');
+let cor4 = 'verde';
+
+switch (cor4) {
+    case 'vermelho':
+        console.log('Cor é vermelho');
         break;
-    case 2:
-        console.log('Segunda-feira');
+    case 'verde':
+        console.log('Cor é verde');
         break;
-    case 3:
-        console.log('Terça-feira');
+    case 'azul':
+        console.log('Cor é azul');
         break;
-    case 4:
-        console.log('Quarta-feira');
-        break;
-    case 5:
-        console.log('Quinta-feira');
-        break;
-    case 6:
-        console.log('Sexta-feira');
-        break;
-    case 7:
-        console.log('Sábado');
-        break;
+    default:
+        console.log('Cor desconhecida');
 }
 
 // 5 - Uso do Default no switch:
 
-switch (dia) {
+let dia5 = 2
+
+switch (dia5) {
     case 1:
         console.log('Domingo');
         break;
@@ -128,8 +120,9 @@ switch (dia) {
 }
 
 // 6 - Uso sem o default no switch:
+let dia6 = 6
 
-switch (dia) {
+switch (dia6) {
     case 1:
         console.log('Domingo');
         break;
