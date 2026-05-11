@@ -1,8 +1,8 @@
-# Aula 8 - If, Else, Switch Case, For e While.
+# AULA 8 - IF ELSE, SWITCH CASE, FOR E WHILE.
 
 ## IF ELSE
 
-Texto aqui
+
 
 ## SWITCH CASE
 
