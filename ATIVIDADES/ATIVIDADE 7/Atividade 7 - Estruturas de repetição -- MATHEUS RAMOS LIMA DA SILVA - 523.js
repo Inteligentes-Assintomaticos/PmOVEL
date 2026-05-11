@@ -8,7 +8,7 @@
 
 let numeroFinal = 10
 
-for ( i = 0; i <= numeroFinal; i++) {
+for ( let i = 0; i <= numeroFinal; i++) {
     if (i % 2 == 0) {
         console.log(`O número ${i} é par!`)
     } 
@@ -21,7 +21,7 @@ for ( i = 0; i <= numeroFinal; i++) {
 let numeroInteiro = 10
 let somatorio = 0
 
-for (i = 0; i <= numeroInteiro; i++) {
+for ( let i = 0; i <= numeroInteiro; i++) {
     somatorio += i
 }
 
