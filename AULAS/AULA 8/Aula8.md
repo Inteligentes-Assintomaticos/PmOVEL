@@ -4,13 +4,7 @@
 
 ## FOR 
 
-Estrutura
-
-for (condiçãoInicial; condiçãoFinal; passo) {
-    console.log('O código dentro')
-}
-
-Exemplo
+Exemplo de estrutura:
 
 ```bash
 
