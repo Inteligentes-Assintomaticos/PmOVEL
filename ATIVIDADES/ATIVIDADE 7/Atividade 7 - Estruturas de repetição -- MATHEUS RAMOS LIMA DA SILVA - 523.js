@@ -25,7 +25,7 @@ for ( let i = 0; i <= numeroInteiro; i++) {
     somatorio += i
 }
 
-console.log(somatorio)
+console.log(`O somatório dos números até ${numeroInteiro} é ${somatorio}`)
 
 // 3 - Senha com while
 // Faça um programa que peça ao usuário para digitar uma senha.
