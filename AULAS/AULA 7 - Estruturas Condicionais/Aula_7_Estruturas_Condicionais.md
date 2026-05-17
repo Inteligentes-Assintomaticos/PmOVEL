@@ -31,4 +31,25 @@ através da variável com o número correspondente,
 e o programa procura uma alternativa que mostra
 o dia que bate com o número 
 
+let dia = 4
+
+if (dia === 1) {
+    console.log("Domingo")
+} if else (dia === 2) {
+    console.log("Segunda")
+} if else (dia === 3) {
+    console.log("Terça")
+} if else (dia === 4) {
+    console.log("Quarta")
+} if else (dia === 5) {
+    console.log("Quinta")
+} if else (dia === 6) {
+    console.log("Sexta")
+} if else (dia === 7) {
+    console.log("Sábado")
+} else {
+    console.log("Dia inválido")
+}
+
+
 ```
