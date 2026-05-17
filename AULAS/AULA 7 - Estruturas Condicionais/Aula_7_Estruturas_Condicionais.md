@@ -70,3 +70,41 @@ if (nota === 10) {
 }
 
 ```
+
+Estruturas avançadas:
+
+```js
+
+// if sem chaves ( só funciona em uma linha, não é recomendado)
+
+if (condicao) console.log("Executa");
+
+// !!! Atenção
+
+if (condicao)
+    console.log("Executa");
+    console.log("Vai executar sempre, pois não está dentro do if!")
+
+
+// if aninhado (nested if)
+
+let usuarioLogado = true
+let admin = true
+let idade = 25
+
+if (usuarioLogado) {
+    if (admin) {
+        console.log("Acesso total ao sistema");
+        if (idade >= 18) {
+            console.log("Pode acessar conteúdo adulto!");
+        }
+    }
+    else {
+        console.log("Acesso limitado");
+    }
+} else {
+    console.log("Faça login primeiro!")
+}
+
+
+```
