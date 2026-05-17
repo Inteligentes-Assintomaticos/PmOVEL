@@ -41,34 +41,32 @@ if (condicao1) {
 
 ```
 
-Exemplo prático:
+Exemplos práticos:
 
 ```js
 
-// Descrição: O dia da semana é definido,
-// através da variável com o número correspondente,
-// e o programa procura uma alternativa que mostra
-// o dia que bate com o número 
+// Exemplo 1: Verificando idade
 
-let dia = 4
+let idade = 18
 
-if (dia === 1) {
-    console.log("Domingo")
-} if else (dia === 2) {
-    console.log("Segunda")
-} if else (dia === 3) {
-    console.log("Terça")
-} if else (dia === 4) {
-    console.log("Quarta")
-} if else (dia === 5) {
-    console.log("Quinta")
-} if else (dia === 6) {
-    console.log("Sexta")
-} if else (dia === 7) {
-    console.log("Sábado")
+if (idade >= 18) {
+    console.log("Maior de idade");
 } else {
-    console.log("Dia inválido")
+    console.log("Menor de idade");
+}
+
+// Exemplo 2: Verificando nota
+
+let nota = 8
+
+if (nota === 10) {
+    console.log("Conceito A")
+} else if (nota >= 6) {
+    console.log("Coneceito B")
+} else if (nota >= 0) {
+    console.log("Conceito C")
+} else {
+    console.log("Invalido")
 }
 
 ```
-
