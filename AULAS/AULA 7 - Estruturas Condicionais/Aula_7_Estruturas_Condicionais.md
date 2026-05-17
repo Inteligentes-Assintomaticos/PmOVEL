@@ -6,20 +6,18 @@ As estruturas condicionais permitem que o código tome decisões baseadas em con
 
 ## If Else
 
-O if else basicamente cosiste em um "se..." (if), "caso não..." (else) e um "caso não, se...".
+O if else basicamente cosiste em um "se..." (if), "caso não..." (else) e um "caso não, se..." (if else).
 
 Esturura básica do if else >>>
 
 ```bash
 
-let dia = 1
-
-if (dia === 2) {
-    console.log("Terça-Feira")
-} if else (dia === 1) {
-    console.log("Segunda-Feira")
+if (condição) {
+    // Codigo para a condição
+} if else (condição) {
+    // Codigo para a condição
 } else {
-    console.log("Não sei que dia é esse...")
+    // Codigo para a condição
 }
 
 ```
