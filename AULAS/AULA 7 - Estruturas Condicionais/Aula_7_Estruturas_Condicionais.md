@@ -31,11 +31,11 @@ if (condicao) {
 // if...if else... else...
 
 if (condicao1) {
-    // codigo se condicao1 for verdadeira
+    // codigo_se_condicao1_for_verdadeira
 } if else (condicao2) {
-    // codigo se condicao2 for verdadeira
+    // codigo_se_condicao2_for_verdadeira
 } else {
-    // codigo se nenhuma condicao for verdadeira
+    // codigo_se_nenhuma_condicao_for_verdadeira
 }
 
 
