@@ -10,19 +10,38 @@ O if else basicamente cosiste em uma chave seletora, ele verifica a condição c
 
 Esturura básica do if else >>>
 
+Exemplos comentados:
+
 ```bash
 
-if (condição) {
-    // Codigo para a condição
-} if else (condição) {
-    // Codigo para a condição
-} else {
-    // Codigo para a condição
+// if simples
+
+if (condicao) {
+    // código se verdadeiro
 }
+
+// if...else
+
+if (condicao) {
+    // codigo se verdadeiro
+} else {
+    // codigo se falso
+}
+
+// if...if else... else...
+
+if (condicao1) {
+    // codigo se condicao1 for verdadeira
+} if else (condicao2) {
+    // codigo se condicao2 for verdadeira
+} else {
+    // codigo se nenhuma condicao for verdadeira
+}
+
 
 ```
 
-Exemplo1:
+Exemplo prático:
 
 ```bash
 
@@ -52,3 +71,4 @@ if (dia === 1) {
 }
 
 ```
+
