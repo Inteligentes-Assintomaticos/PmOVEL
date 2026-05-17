@@ -25,7 +25,10 @@ if (condição) {
 Exemplo1:
 
 ```bash
-/* Descrição: O dia da semana é definido, através da variável com o número correspondente, e o programa procura uma alternativa que mostra o dia que bate com o número 
-*/
+
+Descrição: O dia da semana é definido,
+através da variável com o número correspondente,
+e o programa procura uma alternativa que mostra
+o dia que bate com o número 
 
 ```
