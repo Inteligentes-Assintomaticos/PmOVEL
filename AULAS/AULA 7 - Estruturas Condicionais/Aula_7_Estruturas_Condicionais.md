@@ -6,7 +6,7 @@ As estruturas condicionais permitem que o código tome decisões baseadas em con
 
 ## If Else
 
-O if else basicamente cosiste em um "se..." (if), "caso não..." (else) e um "caso não, se..." (if else).
+O if else basicamente cosiste em uma chave seletora, ele verifica a condição caso não seja aquela ele passa para próxima até encontrar a alternativa que satisfaça a condição, caso não haja nenhuma pode ser usado o else para mostrar que as alternativas não atenderam a condição.
 
 Esturura básica do if else >>>
 
