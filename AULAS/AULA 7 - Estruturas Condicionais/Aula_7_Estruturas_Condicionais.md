@@ -32,7 +32,7 @@ if (condicao) {
 
 if (condicao1) {
     // codigo se condicao1 for verdadeira
-} if else (condicao2) {
+} else if (condicao2) {
     // codigo se condicao2 for verdadeira
 } else {
     // codigo se nenhuma condicao for verdadeira
