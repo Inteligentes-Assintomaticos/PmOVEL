@@ -12,7 +12,7 @@ Esturura básica do if else >>>
 
 Exemplos comentados:
 
-```bash
+```js
 
 // if_simples
 
@@ -43,7 +43,7 @@ if (condicao1) {
 
 Exemplo prático:
 
-```bash
+```js
 
 // Descrição: O dia da semana é definido,
 // através da variável com o número correspondente,
