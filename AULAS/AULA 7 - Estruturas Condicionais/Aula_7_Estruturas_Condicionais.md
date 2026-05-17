@@ -14,7 +14,7 @@ Exemplos comentados:
 
 ```js
 
-// if_simples
+// if simples
 
 if (condicao) {
     // código se verdadeiro
@@ -31,11 +31,11 @@ if (condicao) {
 // if...if else... else...
 
 if (condicao1) {
-    // codigo_se_condicao1_for_verdadeira
+    // codigo se condicao1 for verdadeira
 } if else (condicao2) {
-    // codigo_se_condicao2_for_verdadeira
+    // codigo se condicao2 for verdadeira
 } else {
-    // codigo_se_nenhuma_condicao_for_verdadeira
+    // codigo se nenhuma condicao for verdadeira
 }
 
 
