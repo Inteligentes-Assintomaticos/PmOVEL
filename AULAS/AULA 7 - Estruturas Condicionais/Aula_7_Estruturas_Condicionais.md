@@ -1,5 +1,10 @@
 # Aula 7 - Condições em JS
 
+## Índice
+- Introdução
+- If Else
+- Switch Case
+
 ## Introdução
 
 As estruturas condicionais permitem que o código tome decisões baseadas em condições específicas, executando diferentes blocos de código.
