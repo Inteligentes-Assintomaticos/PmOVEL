@@ -71,7 +71,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 > Esse repositório é regado a **ódio por UX**, **amor por café** e **energia de madrugada**.  
 > Não use como referência pra nada sério, a menos que queira rir no futuro.
 
-<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnG3O/giphy.gif" alt="Computer GIF" width="600">
+<img src="https://tenor.com/pt-BR/view/pc-man-crush-rage-gif-20192828" alt="Computer GIF" width="600">
 
 ---
 
