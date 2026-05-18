@@ -6,7 +6,7 @@
 
 ## 🤯 Sobre 
 
-Esse repositório foi criado sob efeito de **café+, energia do desespero e prazos apertados**.  
+Esse repositório foi criado sob efeito de **café + energia do desespero e prazos apertados**.  
 Aqui você vai encontrar:
 - Código que funciona... às vezes.
 - Comentários do tipo *"não sei como, mas tá aí"*
