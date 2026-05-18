@@ -2,7 +2,7 @@
 
 > *"Se funciona, não mexe. Se não funciona, chama a gente."*
 
-![gif meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif)
+![gif1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif)
 
 ## 🤯 Sobre 
 
@@ -36,6 +36,8 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 > Se der pau, a culpa é do **cache** ou do **sênior que desligou o servidor sexta 18h**.
 
+![gif4](https://media1.tenor.com/m/x_cVmSnB4AQAAAAd/rage.gif)
+
 ---
 
 ## 🔥 Status do repo
@@ -44,7 +46,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 ⚠️ *Funcionando dentro do tolerável*  
 💩 Código feio, mas dev feliz
 
-![gif4](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![gif5](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
@@ -60,7 +62,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 | **Fernando** | Esse cara seria bom se não fosse o vício... o vício de acordar tarde |
 | **Luiz** | Num sabe o que faz, mas faz |
 
-![gif5](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![gif6](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
 
@@ -69,7 +71,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 > Esse repositório é regado a **ódio por UX**, **amor por café** e **energia de madrugada**.  
 > Não use como referência pra nada sério, a menos que queira rir no futuro.
 
-![gif6](https://media.giphy.com/media/3o7abAHdYvZdBNnG3O/giphy.gif)
+![gif7](https://media.giphy.com/media/3o7abAHdYvZdBNnG3O/giphy.gif)
 
 ---
 
