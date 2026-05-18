@@ -1,8 +1,8 @@
-# 🚀 Projeto dos Mestres da Gambiarra ⌨️💥
+# 🚀 Projeto dos Inteligentes Assintomáticos
 
 > *"Se funciona, não mexe. Se não funciona, chama a gente."*
 
-![gif meme](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
+![gif meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif)
 
 ## 🤯 Sobre o projeto
 
