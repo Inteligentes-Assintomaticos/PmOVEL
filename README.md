@@ -2,7 +2,7 @@
 
 > *"Se funciona, não mexe. Se não funciona, chama a gente."*
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/michael-jackson.gif" alt="Computer GIF" width="600">
 
 ## 🤯 Sobre 
 
@@ -14,7 +14,7 @@ Aqui você vai encontrar:
 
 Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkycmVtenFncTEwdThnOW5hd2I3dnB4eGVuZ290a2FlMzdhdHl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2juvZoQ3oLa4U/giphy.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/typing.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -24,7 +24,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 - HTML/CSS (pra parecer que tá bonito)
 - Git (aquele amor e ódio diário)
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/cat-working.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -36,7 +36,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 > Se der pau, a culpa é do **cache** ou do **sênior que desligou o servidor sexta 18h**.
 
-<img src="https://i.gifer.com/g0bL.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/working.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -46,7 +46,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 ⚠️ *Funcionando dentro do tolerável*  
 💩 Código feio, mas dev feliz
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/programming.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -62,7 +62,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 | **Fernando** | Esse cara seria bom se não fosse o vício... o vício de acordar tarde |
 | **Luiz** | Num sabe o que faz, mas faz |
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/coding.gif" alt="Computer GIF" width="600">
 
 ---
 
