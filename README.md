@@ -14,7 +14,7 @@ Aqui você vai encontrar:
 
 Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
-![gif2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkycmVtenFncTEwdThnOW5hd2I3dnB4eGVuZ290a2FlMzdhdHl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2juvZoQ3oLa4U/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkycmVtenFncTEwdThnOW5hd2I3dnB4eGVuZ290a2FlMzdhdHl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2juvZoQ3oLa4U/giphy.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -24,7 +24,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 - HTML/CSS (pra parecer que tá bonito)
 - Git (aquele amor e ódio diário)
 
-![gif3](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -46,7 +46,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 ⚠️ *Funcionando dentro do tolerável*  
 💩 Código feio, mas dev feliz
 
-![gif5](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -62,7 +62,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 | **Fernando** | Esse cara seria bom se não fosse o vício... o vício de acordar tarde |
 | **Luiz** | Num sabe o que faz, mas faz |
 
-![gif6](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Computer GIF" width="600">
 
 ---
 
@@ -71,7 +71,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 > Esse repositório é regado a **ódio por UX**, **amor por café** e **energia de madrugada**.  
 > Não use como referência pra nada sério, a menos que queira rir no futuro.
 
-![gif7](https://media.giphy.com/media/3o7abAHdYvZdBNnG3O/giphy.gif)
+<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnG3O/giphy.gif" alt="Computer GIF" width="600">
 
 ---
 
