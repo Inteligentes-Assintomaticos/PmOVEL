@@ -2,7 +2,7 @@
 
 > *"Se funciona, não mexe. Se não funciona, chama a gente."*
 
-![gif1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRpOWppN2tuaG9qdDdvM3dyNjYydTV0MHJqOHJ2cDVmNmd2ZWRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pJNYBYSMFod2/giphy.gif" alt="Computer GIF" width="600">
 
 ## 🤯 Sobre 
 
