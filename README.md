@@ -36,7 +36,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 > Se der pau, a culpa é do **cache** ou do **sênior que desligou o servidor sexta 18h**.
 
-![gif4](<img src="https://i.gifer.com/g0bL.gif" width="500">)
+<img src="https://i.gifer.com/g0bL.gif" alt="Computer GIF" width="400">
 
 ---
 
