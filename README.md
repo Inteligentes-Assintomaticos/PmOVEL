@@ -14,7 +14,7 @@ Aqui você vai encontrar:
 
 Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
-![gif2](https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif)
+![gif2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkycmVtenFncTEwdThnOW5hd2I3dnB4eGVuZ290a2FlMzdhdHl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2juvZoQ3oLa4U/giphy.gif)
 
 ---
 
@@ -73,4 +73,4 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 ---
 
-**Agora fecha o PR e vai descansar, seus lindos.** 💻💙
+**Agora fecha o PC e vai descansar, seus lindos.** 💻💙
