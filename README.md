@@ -36,7 +36,7 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 > Se der pau, a culpa é do **cache** ou do **sênior que desligou o servidor sexta 18h**.
 
-![gif4](https://media1.tenor.com/m/Dh5gcXQ0HxcAAAAd/cpu-on-smoke-cpu-blasts.gif)
+![gif4](https://github.com/user-attachments/assets/7b22d008-1d6d-44b2-9471-bc48a72171db)
 
 ---
 
