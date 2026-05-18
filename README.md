@@ -75,4 +75,4 @@ Aqui você acha muita loucura, tristeza, estresse e Rock and Roll.
 
 ---
 
-**Agora fecha o PC e vai descansar, seus lindos.** 💻💙
+**Agora desliga o PC e vai descansar, seus lindos.** 💻💙
