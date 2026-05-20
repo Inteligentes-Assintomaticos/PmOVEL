@@ -1,5 +1,3 @@
-# 📱 Programação Móvel
+# Felipe
 
-> **Se no PC já tava ruim, imagine no celular**
-
-<img src="/gifs-readme/angry-entourage.gif" alt="Computer GIF" width="600">
+<img src="/gifs-readme/kid-throw.gif" alt="Computer GIF" width="600">
