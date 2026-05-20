@@ -1,15 +1,5 @@
-# PROGRAMAÇÃO MÓVEL
+# 📱 Programação Móvel
 
-## Objetivos
-Este repositório tem como objetivo abrigar todas as técnicas compartilhadas para
-desenvolvimento móvel.
+> **Se no PC já tava ruim, imagine no celular**
 
-## Developers
-- Matheus
-- Felipe
-- Paulo
-- Adrian
-- Miguel
-- Fernando
-- Luiz
-
+<img src="/gifs-readme/angry-entourage.gif" alt="Computer GIF" width="600">
