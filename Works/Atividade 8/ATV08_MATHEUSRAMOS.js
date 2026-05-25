@@ -1,3 +1,6 @@
+//Aluno: Matheus Ramos Lima da Silva
+//Turma: 523
+
 // Arrays
 let pessoa = []
 
@@ -74,3 +77,37 @@ function ordenar(array) {                   //aqui é criada uma função ordena
 
 ordenar(numeros)
 console.log(numeros)
+
+// Função reverse
+
+let frutasReversa = frutas.reverse() // inverte a ordem dos elementos do array
+console.log(frutasReversa)
+
+// Função filter
+
+let frutasFiltradas = frutas.filter(fruta => fruta.includes('u')) // filtra elementos que começam com a letra 'U'.
+console.log(frutasFiltradas)
+
+// Função map
+
+let frutasMap = frutas.map(fruta => fruta + "!!") //cria um novo array com elementos modificados
+console.log(frutasMap)
+
+// Função ToLowerCase
+
+let animais = ["CACHORRO", "gato", "passarinho", "coelho", "leão"];
+for (let i = 0; i < animais.length; i++) {
+    console.log(animais[i].toLowerCase());
+}
+
+// Função ToUpperCase
+
+animais.map(function(animal) {
+    return console.log(animal.toUpperCase())
+})
+
+for (let i = 0; i < animais.length; i++) {
+    console.log(animais[i]);
+}
+
+// ----------------------------------------------
