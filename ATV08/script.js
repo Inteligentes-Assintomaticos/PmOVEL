@@ -82,3 +82,87 @@ console.log(novaArray)
 let frutaEncontrada = frutas.includes('maça')   // verifica se existe ➡️ retorna true ou false
 console.log(frutaEncontrada)
 
+
+// ---------------------------------------------------
+
+
+let frutasOrdenadas = frutas.sort()     // onderna os elementos
+console.log(frutasOrdenadas)
+
+
+// ---------------------------------------------------
+
+
+let numeros = [101, 100, 24, 89, 3]
+
+let ordenados1 = numeros.sort()     // considera apenas o primeiro dígito ➡️ não ordena pelo valor (como se fosse ordem alfabética)
+console.log(ordenados1)
+
+
+function ordenar(array) {               // a função sort recebe uma função para ordenar corretamente
+    return array.sort((a,b) => a - b)
+}
+ordenar(numeros)
+console.log(numeros)
+
+
+// ---------------------------------------------------
+
+
+let frutasReversa = frutas.reverse()    // inverte a ordem dos elementos
+console.log(frutasReversa)
+
+
+// ---------------------------------------------------
+
+
+let frutasFiltradas = frutas.filter(fruta => fruta.includes('u'))   // filtras os elementos ➡️ no caso apenas elementos com a letra 'u'
+console.log(frutasFiltradas)
+
+
+// ---------------------------------------------------
+
+
+var estados = ['São Paulo', 'Minas Gerais', 'Rio de Janeiro', 'Rio Grande do Norte', 'Santa Catarina', 'Acre']
+
+function retornaEstado(value) {         // busca os elementos que começam com 'S
+    if (value.charAt(0) == 'S') {
+        return value
+    }
+}
+
+var resultado = estados.filter(retornaEstado)
+console.log(resultado)
+
+
+// ---------------------------------------------------
+
+
+let frutasMap = frutas.map(fruta => fruta + "!!")       // cria um novo array modificado
+console.log(frutasMap)
+
+
+// ---------------------------------------------------
+
+
+let animais = ['CACHORRO', 'gAto', 'passarinho', 'cOELHO', 'Leão']
+
+for (let i = 0; i < animais.length; i++) {
+    console.log(animais[i])
+}
+
+
+
+
+for (let i = 0; i < animais.length; i++) {      // deixa tudo minúsculo 
+    console.log(animais[i].toLowerCase())
+}
+
+
+// ---------------------------------------------------
+
+
+animais.map(function(animal) {              // deixa tudo maiúsculo
+    return console.log(animal.toUpperCase())
+})
+
