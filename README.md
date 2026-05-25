@@ -1,4 +1,4 @@
 # 🤪Felipe
 
 >**Tá travandooooooooooooooooooooo**
-<img src="/gifs-readme/kid-throw.gif" alt="Computer GIF" width="400" height=auto>
+<img src="/gifs-readme/kid-throw.gif" alt="Computer GIF" width="500" height=auto>
