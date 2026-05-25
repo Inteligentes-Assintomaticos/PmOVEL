@@ -1,3 +1,3 @@
 # Matheus Japinha Gostoso
 
-<img src="./gif/pombo_67.webp">
+<img width=600px heigth=auto src="./gif/pombo_67.webp">
