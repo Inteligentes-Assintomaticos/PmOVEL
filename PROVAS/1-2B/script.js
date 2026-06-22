@@ -19,6 +19,7 @@ console.log(ex1_1.length)                  // retorna o número de caracteres da
 
 let ex2 = ['Felipe', 'Murilo', 'Matheus', 'Felipe']
 console.log(ex2.indexOf('Felipe'))           // retorna o índice do valor
+console.log(ex2.indexOf('Felipe', 1))           // o 2° parâmetro define por onde começar
 console.log(ex2.indexOf('Paulo'))            // caso não encontrado, retorna '-1'
 
 
