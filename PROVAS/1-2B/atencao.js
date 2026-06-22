@@ -48,3 +48,4 @@ console.log(ex22)
 
 let ex22_1 = 'Felipe, Matheus, Murilo'
 console.log(ex22_1.split(""))  
+
